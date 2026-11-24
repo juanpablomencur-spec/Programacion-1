@@ -1,6 +1,7 @@
 import numpy as np
 import random
 
+#Asigna la posicion de las luces de manera aleatoria pero que se pueda ganar
 cantidad = 10
 while True:
     luces = np.zeros(cantidad, dtype=np.uint8)
