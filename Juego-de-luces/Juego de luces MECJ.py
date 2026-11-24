@@ -1,6 +1,7 @@
 import numpy as np
 import random
 
+#Genera la posicion inicial de las luces
 cantidad = 10
 while True:
     luces = np.zeros(cantidad, dtype=np.uint8)
