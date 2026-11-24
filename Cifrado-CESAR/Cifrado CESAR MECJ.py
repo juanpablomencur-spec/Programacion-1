@@ -1,4 +1,5 @@
 def cifrar(mensaje, desplazamiento):
+# Cifra el mensaje utilizando el desplazamierntio especificado por el usuario teniendo en cuenta mayusculas y minusculas
     abecedario = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
     resultado = ""
 

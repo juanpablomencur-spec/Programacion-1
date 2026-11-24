@@ -5,6 +5,7 @@ valores = ["A", "2", "3", "4", "5", "6", "7",
 palos = ["♥", "♦", "♣", "♠"]
 
 def calcular_puntuacion(mano):
+    # Calcula la puntuacion de una mano de Blackjack, teniendo en cuenta el valor de los ases
     puntos = 0
     ases = 0
 
