@@ -42,7 +42,11 @@ Escribe un mensaje: GitHub
 Desplazamiento: 3
 Mensaje cifrado: JlwKxe
 ```
+<<<<<<< HEAD
 ![Ejecucion del programa](Capturas/ejecucion Cifrado CESAR)
+=======
+![Ejecucion del programa](capturas/ejecucion Cifrado CESAR.png)
+>>>>>>> 721f42c8be43ba4f59d9304f41c375b62e5483a5
 
 ### Juego de luces
 Juego para una persona con tablero de 10 luces en el cual
