@@ -42,7 +42,7 @@ Escribe un mensaje: GitHub
 Desplazamiento: 3
 Mensaje cifrado: JlwKxe
 ```
-![Ejecucion del programa](capturas/ejecucion Cifrado CESAR.png)
+![Ejecucion del programa](capturas/ejecucion.png)
 
 ### Juego de luces
 Juego para una persona con tablero de 10 luces en el cual
@@ -55,3 +55,6 @@ de 21 puntos para ganar y si pasas esa cantidad o el dealer tiene mas pierdes
 ### Validador de contraseñas
 Este programa valida si la contraseña dada por el usuario es segura o insegura dependiendo
 de los criterios asignados en el programa
+
+# Autor
+Mendez Curiel Juan Pablo
